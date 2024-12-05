@@ -10,7 +10,7 @@ For this project, I used the following tools;
 
 **PostgreSQL:** A powerful, open-source relational database management system suitable for jobs posting data.
 
-**VS Code:** A popular, free source code editor which is used for writing my queries.
+**VS Code:** A popular, free source code editor which is used for writing queries.
 
 **Git and Github:** A version control system used for sharing and tracking changes in a code.
 
